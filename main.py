@@ -1,5 +1,3 @@
-Replace main.py completely with the code below. It uses Gemini, not Anthropic. Remove anthropic from requirements.txt (keep fastapi, uvicorn, httpx). The secret GEMINI_API_KEY is already set. Don't change anything else, then run the app.
-
 import os
 
 import httpx
